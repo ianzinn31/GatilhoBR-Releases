@@ -7,7 +7,7 @@ Canal oficial de distribuição do pacote instalador da extensão **GatilhoBR PR
 ## Download Direto (Última Versão)
 
 - **Instalador Oficial (.ZIP):** [GatilhoBR-Extensao-Instalador.zip](https://github.com/ianzinn31/GatilhoBR-Releases/releases/latest/download/GatilhoBR-Extensao-Instalador.zip)
-- **Versão atual publicada:** `v4.3.14`
+- **Versão atual publicada:** `v4.3.15`
 
 ## Como Instalar no Navegador (Chrome / Edge / Brave)
 
